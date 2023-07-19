@@ -1,0 +1,16 @@
+App Secrets {
+    App secret : UL48Q~H1w8Ij3cXRGJuDY.WgOAg5agRRRGN1DbkS
+    App ID : c9c2ec37-665f-4966-adc5-259180d07838
+}
+
+Private Access Tokens{
+    S.no : 1
+    Name : API Token
+    Token : glpat-xJ12p2tg3U95oDhTUG_o
+    Expiry : Never
+
+    S.no : 2
+    Name : Github Access Token
+    Token : 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
+    Expiry : Never
+}
