@@ -3,6 +3,7 @@ package com.mycompany.echo.utils;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
+@Component
 public class Help {
     public static String handleHelp(String Name){
         return "**Welcome Back **"
