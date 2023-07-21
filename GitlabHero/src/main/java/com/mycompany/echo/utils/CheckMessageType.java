@@ -1,5 +1,6 @@
 package com.mycompany.echo.utils;
 
+@Component
 public class CheckMessageType {
     public static boolean isPipeline(String s){
         // syntax : !pipeline <MR Link>
